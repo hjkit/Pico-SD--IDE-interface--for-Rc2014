@@ -10,3 +10,4 @@ idefile = "CPM Inc Transient Apps SIO2.img";
 or
 idefile = "CPM Inc Transient Apps ACIA.img";
 
+## See also RomWBW usage - If you are using RomWBW
